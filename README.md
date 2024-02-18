@@ -14,10 +14,10 @@
 </p>
 
 <p align="left">
-  <a href="#" title="Gmail">
-  <img src="mailto:anaputfpr@gmail.com?subject=&body=" alt="Gmail"/></a>
-  <a href="#" title="WhatsApp">
-  <img src="https://wa.me/5544998563427" alt="WhatsApp"/></a>
-  <a href="#" title="Instagram">
-  <img src="https://www.instagram.com/anaap.olv/" alt="Instagram"/></a>
+  <a href="mailto:anaputfpr@gmail.com?subject=&body=" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="https://wa.me/5544998563427" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
+  <a href="https://www.instagram.com/anaap.olv/" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
 </p>
